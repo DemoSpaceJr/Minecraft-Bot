@@ -1,0 +1,5 @@
+module.exports = {
+  serverIP: "sunucun.aternos.me",
+  serverPort: 255565,
+  username: "altunjr_bot"
+};
