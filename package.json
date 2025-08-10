@@ -1,7 +1,0 @@
-{
-  "name": "afkbot",
-  "version": "1.0.0",
-  "dependencies": {
-    "mineflayer": "^4.31.0"
-  }
-}
